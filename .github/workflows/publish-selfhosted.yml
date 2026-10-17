@@ -1,6 +1,6 @@
 name: Publish self-hosted image
 
-# Interim image for oracle-cloud's invio deployment while the per-client
+# Interim image for homelab's invio deployment while the per-client
 # invoice numbering change is pending review upstream (kittendevv/Invio).
 # Kept on its own branch so `main` stays a clean mirror of upstream and
 # the per-client-invoice-numbering branch stays cleanly PR-able.
